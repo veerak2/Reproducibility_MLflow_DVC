@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kavinv/Reproducibility_MLflow_DVC/mlruns/0/4d96841c2ce8476eb50e0adab0949537/artifacts
+end_time: 1638406555850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4d96841c2ce8476eb50e0adab0949537
+run_uuid: 4d96841c2ce8476eb50e0adab0949537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638406549200
+status: 3
+tags: []
+user_id: kavinv
